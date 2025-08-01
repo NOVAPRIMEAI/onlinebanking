@@ -1,0 +1,12 @@
+{
+    "vscode-edge-devtools.webhintInstallNotification": true,
+    "vscode-edge-devtools.useHttps": true,
+    "vscode-edge-devtools.browserArgs": [
+        "",
+        "",
+        "onlinebanking"
+    ],
+    "vscode-edge-devtools.browserFlavor": "Dev",
+    "vscode-edge-devtools.defaultUrl": ".html",
+    "vscode-edge-devtools.showWorkers": true
+}
